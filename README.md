@@ -7,4 +7,4 @@ To use, run main.py. You will need to have menu.sql in the same folder. You may 
 ## To-Do
 - Currently, the program remakes the database every time its run, causing changes to not be saved. This was done for testing purposes, and I intend to change it eventually.
 - I want to add more options, such as being able to generate a single item
-- I want to look at exporting the menu and shopping list into a printable file format
+- I want to add the option of exporting the menu and shopping list into a printable file format
